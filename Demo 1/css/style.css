@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    color: #996633;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+div h2 {
+    margin-top: 20px;
+}
+
+div h1 {
+    background-color: #394A59;
+    text-align: center;
+    color: aliceblue;
+    /* margin: 5px; */
+}
+
+.a {
+    list-style-type: circle;
+    color: blue;
+    margin-bottom: 20px;
+}
+.c {
+    list-style-type: upper-roman;
+    margin-bottom: 20px;
+}
+
+.nav {
+    padding: 10px;
+    
+}
+
+ul, ol, li {
+    margin-left: 20px;
+}
+hr {
+    width: 50%;
+    height: 3px;
+    background-color: #394A59;
+    margin: 0 auto;
+}
+
+
+body {
+    padding: 10px;
+}
+
+.small-img img {
+    width: 200px;
+    gap: 10px;
+}
+
+.large-img img {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+div p {
+    width: 50%;
+    margin-left: auto;
+    text-align: right;
+    margin-bottom: 20px;
+    
+}
+
+table {
+    padding: 5px;
+    text-align: left;    
+    width: 40%;
+    height: 80px;
+    position: relative;
+    left: 30%;
+    margin: 10px;
+    font-size: 10px;
+   
+}
+th {
+    background-color:#C4CDD6;
+    height: 15px;
+    padding: 5px;
+    text-align: center;
+}
+table, tr, th {    
+    border: 2px solid #394A59;
+}
+
+table, tbody, tr, td {
+    padding: 5px;
+    border: 2px solid #394A59;
+    border-collapse: collapse;
+}
+
+#tradi-img1 {
+    background-image: url('../img/chilling-cafe-13.jpg');
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: aliceblue;
+}
+#tradi-img2 {
+    background-image: url('../img/chilling-cafe-11.jpg');
+    background-position:left;
+    background-size:cover;
+    color: aliceblue;
+}
+
+.end {
+    text-align: center;
+}
+
